@@ -517,3 +517,4 @@ Commit on 2023-01-25T18:44:04: Integrate new data source for training
 Commit on 2023-01-25T14:22:19: Add unit tests for new features
 Commit on 2023-01-25T11:12:07: Add support for distributed training
 Commit on 2023-01-26T11:44:25: Update documentation and examples
+Commit on 2023-01-27T19:54:26: Update README with installation instructions
