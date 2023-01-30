@@ -519,3 +519,4 @@ Commit on 2023-01-25T11:12:07: Add support for distributed training
 Commit on 2023-01-26T11:44:25: Update documentation and examples
 Commit on 2023-01-27T19:54:26: Update README with installation instructions
 Commit on 2023-01-27T18:22:46: Update dependencies to latest versions
+Commit on 2023-01-30T09:30:36: Refactor core logic for better performance
