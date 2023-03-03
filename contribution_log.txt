@@ -579,3 +579,4 @@ Commit on 2023-03-01T18:46:19: Clean up code and remove unused imports
 Commit on 2023-03-02T09:33:49: Improve memory management during inference
 Commit on 2023-03-03T14:56:13: Implement new algorithm for data augmentation
 Commit on 2023-03-03T09:15:48: Add support for distributed training
+Commit on 2023-03-03T10:54:47: Add unit tests for new features
