@@ -628,3 +628,4 @@ Commit on 2023-04-03T16:28:58: Update README with installation instructions
 Commit on 2023-04-03T14:44:30: Optimize model training loop
 Commit on 2023-04-04T14:33:13: Optimize model training loop
 Commit on 2023-04-04T18:48:00: Implement new algorithm for data augmentation
+Commit on 2023-04-05T16:26:04: Add configuration options for hyperparameters
