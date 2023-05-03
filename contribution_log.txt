@@ -672,3 +672,4 @@ Commit on 2023-05-01T18:38:19: Update documentation and examples
 Commit on 2023-05-01T15:47:12: Add configuration options for hyperparameters
 Commit on 2023-05-03T14:29:18: Clean up code and remove unused imports
 Commit on 2023-05-03T19:31:29: Enhance visualization of results
+Commit on 2023-05-03T12:21:25: Enhance visualization of results
