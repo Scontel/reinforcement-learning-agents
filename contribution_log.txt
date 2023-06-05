@@ -709,3 +709,4 @@ Commit on 2023-06-02T19:18:04: Implement new algorithm for data augmentation
 Commit on 2023-06-02T14:20:04: Optimize database queries for faster retrieval
 Commit on 2023-06-02T19:44:59: Integrate new data source for training
 Commit on 2023-06-02T10:09:37: Optimize model training loop
+Commit on 2023-06-05T18:50:04: Update README with installation instructions
