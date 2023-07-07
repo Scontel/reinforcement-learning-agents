@@ -756,3 +756,4 @@ Commit on 2023-07-05T18:38:34: Refactor core logic for better performance
 Commit on 2023-07-05T18:17:39: Enhance visualization of results
 Commit on 2023-07-06T10:22:57: Implement new algorithm for data augmentation
 Commit on 2023-07-06T15:03:35: Improve memory management during inference
+Commit on 2023-07-07T17:18:18: Improve memory management during inference
