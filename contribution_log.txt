@@ -784,3 +784,4 @@ Commit on 2023-07-26T17:56:37: Clean up code and remove unused imports
 Commit on 2023-07-26T18:25:19: Implement caching mechanism for frequent requests
 Commit on 2023-07-26T13:31:53: Update dependencies to latest versions
 Commit on 2023-07-27T14:39:34: Implement new algorithm for data augmentation
+Commit on 2023-07-27T15:30:16: Update README with installation instructions
