@@ -822,3 +822,4 @@ Commit on 2023-08-16T16:10:14: Implement new algorithm for data augmentation
 Commit on 2023-08-16T16:55:22: Improve memory management during inference
 Commit on 2023-08-17T09:12:13: Optimize database queries for faster retrieval
 Commit on 2023-08-17T10:02:55: Update README with installation instructions
+Commit on 2023-08-17T14:39:11: Fix edge case in input validation
