@@ -915,3 +915,4 @@ Commit on 2023-10-19T11:41:57: Refactor core logic for better performance
 Commit on 2023-10-19T09:49:43: Update README with installation instructions
 Commit on 2023-10-19T11:25:21: Improve memory management during inference
 Commit on 2023-10-20T09:17:58: Clean up code and remove unused imports
+Commit on 2023-10-20T17:13:35: Update dependencies to latest versions
