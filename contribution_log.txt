@@ -939,3 +939,4 @@ Commit on 2023-11-06T13:38:25: Improve error handling and logging
 Commit on 2023-11-07T16:39:36: Add support for distributed training
 Commit on 2023-11-07T09:19:49: Improve memory management during inference
 Commit on 2023-11-07T17:55:15: Integrate new data source for training
+Commit on 2023-11-08T10:00:37: Update README with installation instructions
