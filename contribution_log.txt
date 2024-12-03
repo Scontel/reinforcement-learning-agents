@@ -28,3 +28,4 @@ Commit on 2024-11-25T18:36:34: Enhance visualization of results
 Commit on 2024-11-26T11:25:12: Implement new algorithm for data augmentation
 Commit on 2024-12-02T17:28:18: Enhance visualization of results
 Commit on 2024-12-03T15:15:01: Update dependencies to latest versions
+Commit on 2024-12-03T16:15:33: Update dependencies to latest versions
