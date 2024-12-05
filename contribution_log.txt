@@ -32,3 +32,4 @@ Commit on 2024-12-03T16:15:33: Update dependencies to latest versions
 Commit on 2024-12-04T12:22:41: Improve memory management during inference
 Commit on 2024-12-05T18:20:25: Clean up code and remove unused imports
 Commit on 2024-12-05T16:45:36: Clean up code and remove unused imports
+Commit on 2024-12-05T18:34:31: Optimize model training loop
