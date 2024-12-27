@@ -53,3 +53,4 @@ Commit on 2024-12-23T14:49:35: Add configuration options for hyperparameters
 Commit on 2024-12-23T11:51:00: Improve error handling and logging
 Commit on 2024-12-24T09:38:10: Update README with installation instructions
 Commit on 2024-12-26T18:45:14: Fix edge case in input validation
+Commit on 2024-12-27T12:06:54: Enhance visualization of results
