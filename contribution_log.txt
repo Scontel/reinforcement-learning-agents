@@ -75,3 +75,4 @@ Commit on 2025-01-09T11:36:32: Improve memory management during inference
 Commit on 2025-01-10T16:03:29: Improve memory management during inference
 Commit on 2025-01-10T14:05:32: Implement new algorithm for data augmentation
 Commit on 2025-01-14T16:02:20: Add unit tests for new features
+Commit on 2025-01-14T18:33:09: Update documentation and examples
