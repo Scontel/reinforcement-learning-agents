@@ -78,3 +78,4 @@ Commit on 2025-01-14T16:02:20: Add unit tests for new features
 Commit on 2025-01-14T18:33:09: Update documentation and examples
 Commit on 2025-01-15T16:55:59: Improve error handling and logging
 Commit on 2025-01-15T11:29:01: Update README with installation instructions
+Commit on 2025-01-17T18:55:06: Update README with installation instructions
