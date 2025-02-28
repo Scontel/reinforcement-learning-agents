@@ -120,3 +120,4 @@ Commit on 2025-02-25T10:51:36: Add unit tests for new features
 Commit on 2025-02-26T11:27:32: Clean up code and remove unused imports
 Commit on 2025-02-27T18:21:55: Enhance visualization of results
 Commit on 2025-02-28T18:08:23: Add configuration options for hyperparameters
+Commit on 2025-02-28T13:35:00: Enhance visualization of results
