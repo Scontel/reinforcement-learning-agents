@@ -145,3 +145,4 @@ Commit on 2025-03-20T09:04:47: Add configuration options for hyperparameters
 Commit on 2025-03-20T15:02:29: Update documentation and examples
 Commit on 2025-03-20T09:56:30: Fix minor bug in data processing
 Commit on 2025-03-21T16:41:07: Update documentation and examples
+Commit on 2025-03-21T15:02:47: Refactor core logic for better performance
