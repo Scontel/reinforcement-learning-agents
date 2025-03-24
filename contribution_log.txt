@@ -149,3 +149,4 @@ Commit on 2025-03-21T15:02:47: Refactor core logic for better performance
 Commit on 2025-03-21T11:26:41: Clean up code and remove unused imports
 Commit on 2025-03-24T10:48:00: Fix edge case in input validation
 Commit on 2025-03-24T16:12:43: Update README with installation instructions
+Commit on 2025-03-24T11:41:10: Improve memory management during inference
