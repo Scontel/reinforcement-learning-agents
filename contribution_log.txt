@@ -155,3 +155,4 @@ Commit on 2025-03-26T15:31:38: Improve memory management during inference
 Commit on 2025-03-26T13:55:40: Update README with installation instructions
 Commit on 2025-03-26T18:26:36: Update README with installation instructions
 Commit on 2025-03-27T10:44:56: Clean up code and remove unused imports
+Commit on 2025-03-28T11:00:24: Add unit tests for new features
