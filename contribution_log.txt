@@ -187,3 +187,4 @@ Commit on 2025-04-28T16:00:46: Enhance visualization of results
 Commit on 2025-04-30T15:31:42: Add unit tests for new features
 Commit on 2025-04-30T17:55:33: Improve error handling and logging
 Commit on 2025-05-02T17:59:33: Add support for distributed training
+Commit on 2025-05-02T14:32:47: Update documentation and examples
