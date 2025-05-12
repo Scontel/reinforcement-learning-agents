@@ -195,3 +195,4 @@ Commit on 2025-05-08T11:35:22: Refactor core logic for better performance
 Commit on 2025-05-08T16:13:14: Implement new algorithm for data augmentation
 Commit on 2025-05-08T16:36:28: Implement new algorithm for data augmentation
 Commit on 2025-05-12T13:10:34: Update documentation and examples
+Commit on 2025-05-12T16:32:47: Fix edge case in input validation
