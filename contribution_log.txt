@@ -221,3 +221,4 @@ Commit on 2025-05-27T14:15:25: Improve error handling and logging
 Commit on 2025-05-28T14:33:26: Optimize model training loop
 Commit on 2025-06-02T17:38:25: Update documentation and examples
 Commit on 2025-06-02T13:44:33: Enhance visualization of results
+Commit on 2025-06-03T10:21:25: Update dependencies to latest versions
