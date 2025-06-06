@@ -231,3 +231,4 @@ Commit on 2025-06-05T18:31:42: Fix edge case in input validation
 Commit on 2025-06-05T18:45:25: Update documentation and examples
 Commit on 2025-06-05T14:22:22: Update dependencies to latest versions
 Commit on 2025-06-05T16:42:48: Add unit tests for new features
+Commit on 2025-06-06T18:15:24: Enhance visualization of results
