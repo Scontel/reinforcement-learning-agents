@@ -326,3 +326,4 @@ Commit on 2025-09-01T13:37:29: Clean up code and remove unused imports
 Commit on 2025-09-02T16:10:21: Update documentation and examples
 Commit on 2025-09-02T12:29:10: Clean up code and remove unused imports
 Commit on 2025-09-03T18:07:20: Improve error handling and logging
+Commit on 2025-09-03T10:38:23: Update README with installation instructions
