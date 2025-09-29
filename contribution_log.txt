@@ -342,3 +342,4 @@ Commit on 2025-09-23T09:59:26: Add configuration options for hyperparameters
 Commit on 2025-09-24T15:57:09: Add support for distributed training
 Commit on 2025-09-25T13:11:36: Add support for distributed training
 Commit on 2025-09-25T18:44:05: Enhance visualization of results
+Commit on 2025-09-29T16:50:04: Update documentation and examples
