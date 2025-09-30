@@ -344,3 +344,4 @@ Commit on 2025-09-25T13:11:36: Add support for distributed training
 Commit on 2025-09-25T18:44:05: Enhance visualization of results
 Commit on 2025-09-29T16:50:04: Update documentation and examples
 Commit on 2025-09-29T12:06:21: Enhance visualization of results
+Commit on 2025-09-30T14:09:35: Update README with installation instructions
