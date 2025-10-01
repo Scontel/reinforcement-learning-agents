@@ -350,3 +350,4 @@ Commit on 2025-09-30T09:29:32: Update documentation and examples
 Commit on 2025-10-01T16:27:30: Improve error handling and logging
 Commit on 2025-10-01T16:54:57: Add support for distributed training
 Commit on 2025-10-01T09:58:30: Optimize model training loop
+Commit on 2025-10-01T12:57:12: Update README with installation instructions
